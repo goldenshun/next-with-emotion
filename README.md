@@ -25,7 +25,7 @@ export default () => {
 Problem:
 Emotion's `hydrate` call does not recognize that the styles have already been rendered on the server (see `pages/_document.js`).  As a result, the styles are applied again on the client.
 
-<img src="https://ibb.co/g3h4sS" alt="issue" border="0" />
+<a href="https://ibb.co/g3h4sS"><img src="https://preview.ibb.co/kYmm6n/Screen_Shot_2018_04_16_at_1_04_02_PM.png" alt="issue" border="0" /></a>
 
 Demo: https://with-emotion-kylrefglbj.now.sh/
 * You may need to wait a minute for the instance to initialize
