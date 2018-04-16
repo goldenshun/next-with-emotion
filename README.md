@@ -1,5 +1,7 @@
 This repo demonstrates a problem when using Emotion `css` declarations in a separate file.
 
+The next.js implementation follows the example on next's repo: https://github.com/zeit/next.js/tree/canary/examples/with-emotion
+
 # Desired usage
 ```
 // styles/margin.js
