@@ -30,7 +30,7 @@ Emotion's `hydrate` call does not recognize that the styles have already been re
 # Desired Behavior
 To witness the desired behavior, uncomment the line in `pages/index.js` that defines the `mt4` inline.  When rendered with that structure, the server rendered styles are respected.
 
-Demo: https://with-emotion-kylrefglbj.now.sh/
+Demo: https://with-emotion-gbxeilwehs.now.sh
 * You may need to wait a minute for the instance to initialize
 
 To run the example locally: `npm run dev`
